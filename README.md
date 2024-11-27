@@ -18,3 +18,10 @@ Ever thought regular Tic Tac Toe was too... boring? Too... normal? Well, hold on
    python tic_tac_toe.py
    ```
    (Warning: May cause excessive eye-rolling and uncontrollable giggling)
+
+## 🎯 Pro Tips for Victory
+- The goal is to get three in a row (shocking, I know)
+- X's go first (because they're divas like that)
+- O's go second (they're used to being second choice)
+- Diagonal lines count (mind = blown)
+- If you lose to the computer, it's definitely rigged (or so you can tell yourself)
