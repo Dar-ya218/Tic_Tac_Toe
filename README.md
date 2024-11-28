@@ -25,3 +25,19 @@ Ever thought regular Tic Tac Toe was too... boring? Too... normal? Well, hold on
 - O's go second (they're used to being second choice)
 - Diagonal lines count (mind = blown)
 - If you lose to the computer, it's definitely rigged (or so you can tell yourself)
+
+## ⚠️ Side Effects May Include
+- Sudden urges to draw X's and O's everywhere
+- Developing a rivalry with inanimate objects
+- Taking way too long to decide which corner is best
+- Questioning life choices when losing to random moves
+- Excessive celebration for winning at a children's game
+
+## 🏆 Reviews from "Satisfied" Players
+"10/10 would lose again!" - A Good Sport
+"Finally, a game that judges me as much as my mother does!" - Gaming Expert
+"Who knew X's and O's could be so sassy?" - Professional Player
+"Better than my dating life!" - Anonymous
+
+Made with 💻 and questionable life choices.
+(No X's or O's were harmed in the making of this game)
